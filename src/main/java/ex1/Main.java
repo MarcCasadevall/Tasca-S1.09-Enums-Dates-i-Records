@@ -1,3 +1,5 @@
+package ex1;
+
 public class Main {
     public static enum Day {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
